@@ -1,0 +1,38 @@
+# Build output
+build/
+out/
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+*.exp
+*.pdb
+*.ilk
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+_deps/
+
+# IDE
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.opendb
+*.db
+*.ipch
+
+# PPM/BMP output
+*.ppm
+*.bmp
+*.png
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store

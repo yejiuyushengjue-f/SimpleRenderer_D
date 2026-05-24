@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Program Files\\\\Microsoft Visual Studio\")",
+      "Bash(dir \"C:\\\\Program Files \\(x86\\)\\\\Microsoft Visual Studio\")",
+      "Bash(dir \"C:\\\\msys64\")",
+      "Bash(dir \"C:\\\\mingw64\")",
+      "Bash(/c/Users/EIKO/AppData/Local/Programs/Python/Python312/python.exe *)",
+      "Bash(C:/Users/EIKO/Desktop/Study/SubStudy/ClaudeCode/SimpleRenderer/build/renderer.exe *)"
+    ]
+  }
+}
