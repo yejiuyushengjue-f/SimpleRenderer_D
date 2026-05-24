@@ -2,6 +2,8 @@
 
 Software renderer with Win32/OpenGL window, ImGui controls, OBJ loading, texture mapping, and Blinn-Phong lighting.
 
+**GitHub:** https://github.com/yejiuyushengjue-f/SimpleRenderer_D
+
 ## Build
 
 ```bash
